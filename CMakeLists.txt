@@ -1,5 +1,7 @@
 cmake_minimum_required (VERSION 2.8.11)
 
+# Yifang test
+
 project (OPENCL_ICD_LOADER)
 include (GNUInstallDirs)
 find_package (Threads REQUIRED)
